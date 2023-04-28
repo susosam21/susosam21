@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susosam21
+- 👋 Hi, I’m Sarah
 - 👀 I’m interested in Learning All About Software Development
 - 🌱 I’m currently learning Python, Django 
 - 💞️ I’m looking to collaborate on ...
