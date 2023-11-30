@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah
 - 👀 I’m interested in Learning All About Software Development
 - 🌱 I’m currently learning Python, Django, C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on freelance projecs ...
 - 📫 How to reach me sweetsusosam@gmail.com
 
 <!---
